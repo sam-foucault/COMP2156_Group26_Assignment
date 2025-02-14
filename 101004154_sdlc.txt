@@ -1,0 +1,19 @@
+Course Outcomes
+At the end of this course, the student will reliably demonstrate the ability to:
+1. Effectively carry out the roles of a System or Network engineer with DevOps processes by
+utilizing the industry-standard tools and techniques and strategies such as CI/CD, as well as
+software development lifecycle and containerization for deployment.
+2. Demonstrate the strategies and skills of using suitable DevOps tools, Cloud database
+technologies and techniques for software/network applications
+3. Enhance the software development life cycle cycle through cross collaboration among the IT
+staff by understanding and effectively automating the application configurations and operations.
+4. Utilize Version Control System workflows to develop optimized, low-risk software releases and
+continuous code integration.
+5. Make a well-informed analysis and architectural decisions between monolithic or microservice
+architecture for software products.
+6. Monitor code quality and CI/CD pipelines to improve and optimize the DevOps processes
+continuously
+7. Create effective strategies and utilize service platforms such as Infrastructure as Code and the
+benefits of cloud computing to deploy a software product.
+8. Identify the market and opportunities for a DevOps Engineer to Effectively develop & integrate
+security practices into the software development cycle and CI/CD pipelines.
