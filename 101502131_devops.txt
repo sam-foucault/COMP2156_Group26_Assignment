@@ -1,1 +1,1 @@
-COMP 3104 DevOps teaches the procedures, protocols and best practices that a DevOps engineer should use. We are currently learning how to use git bash with git hub. We have the lab class on fridays.
+COMP 3104 DevOps teaches the procedures, protocols and best practices that a DevOps engineer should use. We are currently learning how to use git bash with git hub.
