@@ -1,1 +1,1 @@
-Learning DevOps streamlines development, enhances collaboration, and accelerates software delivery. It bridges the gap between development and IT operations.
+Learning DevOps streamlines development, enhances collaboration, and accelerates software delivery.
