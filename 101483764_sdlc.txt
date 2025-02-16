@@ -1,3 +1,3 @@
 The Importance of DevOps:
 
-DevOps is a crucial part of the software development lifecycle, as it mainly focuses on streamlining and optimizing the software development process. This ultimately leads to increased productivity, with software being delivered faster and with fewer bugs or issues. DevOps minimizes risk and promotes higher quality software delivered in a timely manner.
+DevOps is a crucial part of the software development lifecycle, as it mainly focuses on streamlining and optimizing the software development process. This ultimately leads to increased productivity, with software being delivered faster and with fewer bugs or issues. DevOps minimizes risk and promotes higher quality software delivered in a timely manner, as well as encouraging collaborative efforts amongst team members.
