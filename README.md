@@ -2,8 +2,8 @@
 
 ### Group Members:  
 Sam Foucault - 101483764 GitHub: sam-foucault  
-Anthony Fine - 101502131 GitHub: anthonyfine24
-Andrew Xue  - 101004154 GitHub: AndrewXue97
+Anthony Fine - 101502131 GitHub: anthonyfine24  
+Andrew Xue  - 101004154 GitHub: AndrewXue97  
 
 ### Project Description:  
 This repository hosues Group 26s project for COMP2156 DevOps for Systems Administration.  
