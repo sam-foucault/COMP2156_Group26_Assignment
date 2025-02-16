@@ -1,0 +1,3 @@
+About COMP2156 DevOps for Systems Administration:
+
+COMP2156 DevOps for Systems Administration covers common protocols and best practices for DevOps engineers during the development process in a workplace scenario. Industry standard development tools such as CI/CD, GitHub, and containerization are all covered in depth throughout the course, as well as best practices for a software development lifecycle like version control system workflows.
